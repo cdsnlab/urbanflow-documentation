@@ -7,7 +7,7 @@ parameters:
     content:
 content_markdown: |-
   Visualization: [https://deepurban.kaist.ac.kr/urban/building.php](https://deepurban.kaist.ac.kr/urban/building.php)
-  ![img](/images/building.jpg)
+  ![img](/urbanflow-documentation/images/building.jpg)
 
 left_code_blocks:
   - code_block:
