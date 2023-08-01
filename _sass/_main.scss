@@ -242,6 +242,13 @@ h3 .endpoint {
 	}
 }
 
+.endpoint.viz {
+	color: #de1baa;
+	&:after {
+		content: "POST";
+	}
+}
+
 .main {
 	margin: 0 0 0 $nav-width;
 	border-left: 1px solid #eee;
