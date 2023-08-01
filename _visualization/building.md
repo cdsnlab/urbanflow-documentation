@@ -13,9 +13,8 @@ left_code_blocks:
     title:
     language:
 right_code_blocks:
-  ![img](/images/building.jpg)
-
-  - code_block:
+  - code_block: 
+      ![img](/images/building.jpg)
     title:
     language:
 ---
