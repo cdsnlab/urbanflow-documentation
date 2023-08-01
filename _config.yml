@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Aviator
-description: Jekyll template for API documentation.
-url: https://example.com
+title: Urban Flow
+description: Urban Flow Jekyll template for API documentation.
+url: https://deepurban.kaist.ac.kr/
 google_analytics_key:
 permalink: pretty
 baseurl:
@@ -20,6 +20,9 @@ collections:
   api:
     title: APIs
     position_number: 2
+  vizualization:
+    title: Visualization
+    position_number: 3
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -44,7 +47,12 @@ defaults:
       type: "api"
     values:
       _hide_content: true
-
+  -
+    scope:
+      type: "visualization"
+    values:
+      _hide_content: true
+      
 # -----------
 # CloudCannon
 
