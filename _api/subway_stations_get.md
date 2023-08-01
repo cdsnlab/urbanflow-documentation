@@ -20,6 +20,6 @@ right_code_blocks:
       {
         {"type" : "FeatureCollection", "features" : [{"type": "Feature", "geometry": {"type":"Point","coordinates":[126.975271,37.563534]}, "properties": {"철도운영기관명": "서울교통공사", "노선": "2호선", "역명": "시청", "경도": 126.975271, "위도": 37.563534}}, ...]}
       }
-    title: Error
+    title: Response
     language: json
 ---
