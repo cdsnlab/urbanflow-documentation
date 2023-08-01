@@ -20,7 +20,7 @@ collections:
   api:
     title: APIs
     position_number: 2
-  vizualization:
+  visualization:
     title: Visualization
     position_number: 3
 plugins:
