@@ -6,7 +6,8 @@ parameters:
     content:
     type: viz
 content_markdown: |-
-  [https://deepurban.kaist.ac.kr/urban/building.php](https://deepurban.kaist.ac.kr/urban/building.php)
+  Visualization: [https://deepurban.kaist.ac.kr/urban/building.php](https://deepurban.kaist.ac.kr/urban/building.php)
+  ![img](/images/building.jpg)
 
 left_code_blocks:
   - code_block:
@@ -14,7 +15,6 @@ left_code_blocks:
     language:
 right_code_blocks:
   - code_block: 
-      ![img](/images/building.jpg)
     title:
     language:
 ---
