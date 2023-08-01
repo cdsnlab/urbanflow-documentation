@@ -1,10 +1,10 @@
 ---
 title: Time-series Building Construction
 position_number: 1
+type: viz
 parameters: 
   - name:
     content:
-    type: viz
 content_markdown: |-
   Visualization: [https://deepurban.kaist.ac.kr/urban/building.php](https://deepurban.kaist.ac.kr/urban/building.php)
   ![img](/images/building.jpg)
