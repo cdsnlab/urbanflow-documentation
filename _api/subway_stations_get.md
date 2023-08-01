@@ -2,7 +2,7 @@
 title: /urban/api/subway_geojson.php
 position_number: 3.1
 type: get
-description: Get Book
+description: Get subway coordinates
 parameters:
   - name:
     content:
